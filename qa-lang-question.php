@@ -22,7 +22,6 @@
 
 	return array(
 		'1_answer_title' => 'Jibu 1',
-		'a_convert_to_c' => 'Badili Jibu hili kuwa Oni',
 		'a_convert_to_c_on' => 'Badili Jibu hili kuwa Oni katika:',
 		'a_convert_warn' => 'Tahadhari: Mabadiliko haya hayataweza kubatilishwa.',
 		'a_convert_warn_cs' => 'Tahadhari: Mabadiliko haya hayataweza kubatilishwa na yatapelekea kuhamishwa kwa jibu\'majibu kuwa comment.',
